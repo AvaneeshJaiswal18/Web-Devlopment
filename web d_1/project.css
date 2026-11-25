@@ -1,0 +1,123 @@
+
+/* BODY STYLING */
+
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+/* HEADER STYLING */
+
+header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+
+/* NAVIGATION BAR */
+
+nav {
+    background-color: black;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+
+/* SECTION STYLING */
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+/* HEADING STYLING */
+
+h2 {
+    color: navy;
+}
+
+
+/* IMAGE STYLING */
+
+img {
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+
+/* TABLE STYLING */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: navy;
+    color: white;
+}
+
+
+/* FORM STYLING */
+
+input, textarea, select {
+    padding: 8px;
+    margin: 5px;
+    max-width: 100%;
+}
+
+
+/* BUTTON STYLING */
+
+button {
+    background-color: navy;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+
+/* FOOTER STYLING */
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+
+/* VIDEO STYLING */
+
+video {
+    max-width: 100%;
+}
